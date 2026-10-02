@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" fill="none" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#F4F8F9" />
+      <stop offset="70%" stop-color="#E5F3F5" />
+      <stop offset="100%" stop-color="#D9EEF2" />
+    </linearGradient>
+    <linearGradient id="oceanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6FA3A9" />
+      <stop offset="100%" stop-color="#2F4858" />
+    </linearGradient>
+  </defs>
+
+  <!-- Sky -->
+  <rect width="1200" height="600" fill="url(#skyGrad)" />
+
+  <!-- Soft Coastal Sun -->
+  <circle cx="600" cy="280" r="140" fill="#FFFFFF" fill-opacity="0.65" />
+  <circle cx="600" cy="280" r="110" fill="#D9EEF2" fill-opacity="0.8" />
+
+  <!-- Distant Dunes / Coastline -->
+  <path d="M0 380 Q 250 330 500 370 T 950 340 Q 1100 360 1200 350 L 1200 600 L 0 600 Z" fill="#6FA3A9" fill-opacity="0.18" />
+  <path d="M0 420 Q 300 370 650 410 T 1200 390 L 1200 600 L 0 600 Z" fill="#6FA3A9" fill-opacity="0.3" />
+
+  <!-- Calm Ocean Shore / Waves -->
+  <path d="M0 460 Q 280 430 600 450 T 1200 440 L 1200 600 L 0 600 Z" fill="#6FA3A9" fill-opacity="0.6" />
+  <path d="M0 500 Q 350 480 750 510 T 1200 490 L 1200 600 L 0 600 Z" fill="url(#oceanGrad)" />
+
+  <!-- Foam / Water Shorelines -->
+  <path d="M0 462 Q 280 432 600 452 T 1200 442" stroke="#FFFFFF" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round" fill="none" />
+  <path d="M0 503 Q 350 483 750 513 T 1200 493" stroke="#D9EEF2" stroke-opacity="0.7" stroke-width="2.5" stroke-linecap="round" fill="none" />
+
+  <!-- Minimalist Sailboat Silhouette -->
+  <g transform="translate(780, 310) scale(0.65)">
+    <path d="M0 40 L 50 40 L 42 55 L 8 55 Z" fill="#2F4858" />
+    <path d="M25 38 L 25 5 L 45 38 Z" fill="#2F4858" fill-opacity="0.85" />
+    <path d="M22 38 L 22 12 L 8 38 Z" fill="#6FA3A9" />
+  </g>
+
+  <!-- Coastal Birds Flying -->
+  <g stroke="#2F4858" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.45">
+    <path d="M380 180 Q 390 172 400 180 Q 410 172 420 180" />
+    <path d="M430 200 Q 438 193 446 200 Q 454 193 462 200" />
+    <path d="M360 215 Q 366 210 372 215 Q 378 210 384 215" />
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 450" fill="none">
+  <rect width="400" height="450" fill="#F4F8F9" rx="8" />
+  <circle cx="200" cy="200" r="115" fill="#D9EEF2" fill-opacity="0.7" />
+  <rect x="55" y="45" width="290" height="325" rx="12" fill="#FFFFFF" stroke="#D8E6E9" stroke-width="1.5" />
+  <circle cx="200" cy="170" r="65" fill="#6FA3A9" fill-opacity="0.16" />
+  
+        <g transform="translate(150, 115)">
+          <path d="M15 15 L 85 15 L 90 135 L 56 135 L 50 60 L 44 135 L 10 135 Z" fill="#FFFFFF" stroke="#2F4858" stroke-width="3" stroke-linejoin="round" />
+          <path d="M15 15 L 85 15 L 85 25 L 15 25 Z" fill="#6FA3A9" fill-opacity="0.3" stroke="#2F4858" stroke-width="1.5" />
+          <line x1="28" y1="25" x2="28" y2="130" stroke="#D8E6E9" stroke-width="1.5" />
+          <line x1="72" y1="25" x2="72" y2="130" stroke="#D8E6E9" stroke-width="1.5" />
+        </g>
+        
+  <text x="200" y="300" font-family="'Plus Jakarta Sans', sans-serif" font-size="10.5" font-weight="700" letter-spacing="2" fill="#6FA3A9" text-anchor="middle">MEN • BOTTOMS</text>
+  <text x="200" y="324" font-family="'Playfair Display', serif" font-size="14.5" font-weight="600" fill="#2F4858" text-anchor="middle">Boardwalk Relaxed Linen Pants</text>
+</svg>

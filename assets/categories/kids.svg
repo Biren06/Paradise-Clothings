@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 450" fill="none">
+  <rect width="400" height="450" rx="8" fill="#F4F8F9" />
+  <circle cx="200" cy="180" r="110" fill="#D9EEF2" />
+
+  <!-- Kids Coastal Tee & Shorts -->
+  <g transform="translate(145, 115)">
+    <!-- Striped Coastal T-shirt -->
+    <path d="M15 20 L 35 10 L 75 10 L 95 20 L 105 45 L 88 52 L 88 90 L 22 90 L 22 52 L 5 45 Z" fill="#FFFFFF" stroke="#2F4858" stroke-width="3" stroke-linejoin="round" />
+    <path d="M42 12 Q 55 22 68 12" stroke="#2F4858" stroke-width="2" fill="none" />
+    <!-- Breakers stripes -->
+    <line x1="24" y1="35" x2="86" y2="35" stroke="#6FA3A9" stroke-width="3" />
+    <line x1="24" y1="52" x2="86" y2="52" stroke="#6FA3A9" stroke-width="3" />
+    <line x1="24" y1="69" x2="86" y2="69" stroke="#6FA3A9" stroke-width="3" />
+
+    <!-- Board Shorts -->
+    <path d="M26 95 L 84 95 L 88 140 L 59 140 L 55 110 L 51 140 L 22 140 Z" fill="#D9EEF2" stroke="#2F4858" stroke-width="3" stroke-linejoin="round" />
+  </g>
+
+  <!-- Seashell Graphic -->
+  <g transform="translate(275, 120) scale(0.9)">
+    <path d="M20 35 C5 25 5 10 20 5 C35 10 35 25 20 35 Z" fill="#FFFFFF" stroke="#2F4858" stroke-width="2" />
+    <line x1="20" y1="5" x2="20" y2="35" stroke="#6FA3A9" stroke-width="1.5" />
+    <line x1="12" y1="8" x2="18" y2="33" stroke="#6FA3A9" stroke-width="1.5" />
+    <line x1="28" y1="8" x2="22" y2="33" stroke="#6FA3A9" stroke-width="1.5" />
+  </g>
+
+  <!-- Shorelines -->
+  <path d="M120 320 C160 300 240 300 280 320" stroke="#6FA3A9" stroke-width="3" stroke-linecap="round" fill="none" />
+  <path d="M140 335 C175 320 225 320 260 335" stroke="#2F4858" stroke-width="2" stroke-linecap="round" fill="none" />
+</svg>

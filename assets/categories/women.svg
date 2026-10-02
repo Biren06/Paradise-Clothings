@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 450" fill="none">
+  <rect width="400" height="450" rx="8" fill="#F4F8F9" />
+  <circle cx="200" cy="180" r="110" fill="#D9EEF2" />
+
+  <!-- Coastal Breeze Maxi Dress Motif -->
+  <g transform="translate(135, 100)">
+    <!-- Straps & Bodice -->
+    <path d="M35 15 L 45 40 L 85 40 L 95 15" stroke="#2F4858" stroke-width="3" stroke-linecap="round" fill="none" />
+    <path d="M40 40 Q 65 52 90 40 L 95 85 Q 65 95 35 85 Z" fill="#FFFFFF" stroke="#2F4858" stroke-width="3" />
+    <!-- Flowing Skirt -->
+    <path d="M35 85 Q 20 130 10 165 Q 65 175 120 165 Q 110 130 95 85 Z" fill="#FFFFFF" stroke="#2F4858" stroke-width="3" />
+    <!-- Tie belt -->
+    <path d="M30 85 Q 65 92 100 85" stroke="#6FA3A9" stroke-width="3.5" fill="none" />
+    <path d="M60 88 Q 50 110 55 125" stroke="#6FA3A9" stroke-width="2.5" fill="none" />
+  </g>
+
+  <!-- Sun Hat Accent -->
+  <ellipse cx="280" cy="115" rx="35" ry="12" fill="#D9EEF2" stroke="#2F4858" stroke-width="2" />
+  <path d="M265 112 Q 280 92 295 112" fill="#6FA3A9" stroke="#2F4858" stroke-width="2" />
+
+  <!-- Soft Shorelines -->
+  <path d="M120 320 C160 300 240 300 280 320" stroke="#6FA3A9" stroke-width="3" stroke-linecap="round" fill="none" />
+  <path d="M140 335 C175 320 225 320 260 335" stroke="#2F4858" stroke-width="2" stroke-linecap="round" fill="none" />
+</svg>
